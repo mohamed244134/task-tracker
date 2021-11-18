@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Task Tracker React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is basically a Task Tracker where i can add , delete and show my Tasks in the figure below you can find an image for the final project .
+
+![Screen Shot 2021-11-18 at 18 35 16](https://user-images.githubusercontent.com/48156488/142457155-6917461c-3af9-4c2a-af61-9eb992973269.png)
 
 ## Available Scripts
 
